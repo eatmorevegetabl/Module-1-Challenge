@@ -53,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* background image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -71,6 +73,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Search Engine Optimization, Online Reputation Management, 
+& Social Media Marketing sections */
 
 .content {
     width: 75%;
@@ -95,6 +100,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Right-hand column */
 
 .benefits {
     margin-right: 20px;
@@ -121,6 +128,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer */
 
 .footer {
     padding: 30px;
